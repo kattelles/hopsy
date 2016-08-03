@@ -54,11 +54,12 @@ header {
 }
 
 .title {
+  padding: 10px;
   font-size: 34px;
   text-align: center;
 }
 
-.text {
+.text {padding: 10px;
   font-size: 22px;
   text-align: center;
 }
